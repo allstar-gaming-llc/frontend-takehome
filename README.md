@@ -21,7 +21,8 @@ We want to create a simple clip feed with data queried from our GraphQL API.
 ### Provided information:
 
 GraphQL Endpoint: `https://api.prod.allstar.dev/graphql`
-CDN: `https://stagingmedia.allstar.gg`;
+
+CDN: `https://stagingmedia.allstar.gg`
 
 Basic clips query looks like:
 ```
